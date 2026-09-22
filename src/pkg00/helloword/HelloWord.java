@@ -10,11 +10,13 @@ package pkg00.helloword;
  */
 public class HelloWord {
 
-    /**
-     * @param args the command line arguments
+ 
      */
     public static void main(String[] args) {
-       System.out.println("Hello World by AB on Github");
+        
+       System.out.println("bonjour");
+       System.out.println("Salut");
+
     }
     
 }
