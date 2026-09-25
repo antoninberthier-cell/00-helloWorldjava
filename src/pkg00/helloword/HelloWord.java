@@ -18,6 +18,7 @@ public class HelloWord {
        /*Exo2 
        System.out.println("bonjour");
        System.out.println("Salut");*/
+      /*Exo3
       Scanner sc = new Scanner(System.in);
       int x = 0;
       int y = 0;
@@ -37,7 +38,25 @@ public class HelloWord {
       z = y;
       y = x;
       x = z;
-      System.out.println("Apres permutation : x= " + z + "  y= " + y);
+      System.out.println("Apres permutation : x= " + z + "  y= " + y);*/
+      
+      
+      Scanner sc = new Scanner(System.in);
+      
+     int a = 0;
+     int b = 0;
+     
+     System.out.print("Saisir la valeur de a: ");
+     
+     a = sc.nextInt();
+     
+     System.out.print("Saisir la valeur de b: ");
+     
+     b = sc.nextInt();
+     
+     System.out.println((a+b)*2);
+     
+    
 
       
       
